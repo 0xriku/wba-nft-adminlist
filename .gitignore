@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Build results
+**/target/
+
+# IDEs
+**/.vscode/
+
+# Build artifacts
+**/*.wasm
+**/hash.txt
+**/contracts.txt
+**/artifacts/
